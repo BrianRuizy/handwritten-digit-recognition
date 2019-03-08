@@ -1,5 +1,8 @@
 # handwritten-digit-recogntion
-personal portfolio python project that will predict the value of a handwritten digit 
+Personal portfolio python project that will be implementing a machine learning model to predict the value of a handwritten digit.
+
+![mnist-database-hand-written-digits](https://user-images.githubusercontent.com/23439187/53993289-92c39580-40f4-11e9-84e1-a86cb7774a5b.png)
+
 
 ## About
 Reading letters & numbers off of a sheet of paper is profoundly intuitive for us humans, as our visual cortex has developed and evolved for thousands of years. For computers, on the other hand, interpreting strokes from a sheet of paper algorithmically is incredibly difficult. However, due to their immense processing speed, computers can take in massive amounts of data to therefore effectively *learn* and *predict* what a particular digit means. 
