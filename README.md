@@ -18,7 +18,6 @@ The model that I've opted for this particular project is the SVM model, or *line
 **Low-Level**
 In the lower-level approach, you will see how a computer can read a large data set and output the users chosen element from the data structure.
 
-![svmlow](https://user-images.githubusercontent.com/23439187/54001845-48e9a800-4112-11e9-9905-879d066490f0.png)
 
 
 **High-Level**
