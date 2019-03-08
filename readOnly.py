@@ -1,7 +1,5 @@
-# This file is the lower-level approach to digit recognition.
-# The inputted value to predict are preset images.
-# The user will simply tell the model which image to predict based
-# on the array of preset images.
+# This file is the lower-level approach to digit recognition. The inputted value to predict are preset images.
+# The user will simply tell the model which image to predict based on the array of preset images.
 
 # This algorithm will use linear support vector machine classification (SVM),
 # In SVM the dataset is represented as points in space
