@@ -1,5 +1,5 @@
 # handwritten-digit-recogntion
-Personal portfolio python project that will be implementing a machine learning model to predict the value of a handwritten digit.
+Personal portfolio python project that will be implementing a machine learning model to predict the value of a handwritten digit through supervised learning. The algorithm itself will be given a large dataset from *sci-kit learn*.
 
 ![mnist-database-hand-written-digits](https://user-images.githubusercontent.com/23439187/53993289-92c39580-40f4-11e9-84e1-a86cb7774a5b.png)
 
