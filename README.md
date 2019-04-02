@@ -16,9 +16,9 @@ The model that I've opted for this particular project is the SVM model, or *line
 
 ## Versions
 **Low-Level**
-In the lower-level approach, you will see how a computer can read a large data set and output the users chosen element from the data structure.
+In the lower-level approach, you will see how a computer can read a large data set and output the users chosen element from the data structure, in a non-robust form.
 
 ![SVM3](https://user-images.githubusercontent.com/23439187/54062221-64b08500-41ca-11e9-8023-d9b4970ec05e.png)
 
 **High-Level**
-In the latter, higher-level, the user will be able to simply write a digit, through an input dialog, for the computer to interpret. 
+(work in progress) In the latter, higher-level, the user will be able to simply write a digit, through an input dialog, for the computer to interpret, using additional web components. 
