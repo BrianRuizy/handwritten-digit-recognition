@@ -11,7 +11,7 @@ The model that I've opted for this particular project is the SVM model, or *line
 
 ## Dependencies
 Tools include:
-[SciKit-learn](https://scikit-learn.org/stable/)
+[SciKit-learn](https://scikit-learn.org/stable/),
 [matplotlib](https://matplotlib.org/)
 
 ## Versions
