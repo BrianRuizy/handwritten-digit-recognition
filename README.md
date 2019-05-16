@@ -10,9 +10,9 @@ Reading letters & numbers off of a sheet of paper is profoundly intuitive for us
 The model that I've opted for this particular project is the SVM model, or *linear Support Vector classification*. Although there are different approaches it is difficult to appoint a specific model as superior, as it depends on the criteria or project scope. However, SVM is the preferred method as it allows for the fine-tuning of parameters to achieve better accuracy.
 
 ## Dependencies
-* Python
-* Sklearn
-* matplotlib
+Tools include:
+[SciKit-learn](https://scikit-learn.org/stable/)
+[matplotlib](https://matplotlib.org/)
 
 ## Versions
 **Low-Level**
