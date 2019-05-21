@@ -1,5 +1,5 @@
 # Handwritten Digit Recogntion 📝💻
-Personal portfolio python project that will be implementing a machine learning classification model to predict the value of a handwritten digit through supervised learning. The algorithm itself will be given a large dataset, MNIST, from *sci-kit learn*.
+Personal portfolio python project that will be implementing a machine learning classification model to predict the value of a handwritten digit through supervised learning. The algorithm itself will be given a large dataset, [MNIST](https://www.kaggle.com/c/digit-recognizer/data), from *sci-kit learn*.
 
 <p align="center">
 <img src="http://mdp-toolkit.sourceforge.net/_images/digits.png" >
