@@ -32,3 +32,6 @@ In the lower-level approach, you will see how a computer can read a large data s
 
 **High-Level**
 (work in progress) In the latter, higher-level, the user will be able to simply write a digit, through an input dialog, for the computer to interpret, using additional web components. 
+
+------
+#### © [Brian Ruiz](https://github.com/BrianRuizy)
