@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="br logo" title="br logo" src="https://github.com/BrianRuizy/portfolio-website-3.0/blob/master/Misc/BR%20logo%20gradient.png" width="100"> </br>
-     Handwritten Digit Recogntion
+     Handwritten Digit Recognition
 </h1>
 
 <h4 align="center">
